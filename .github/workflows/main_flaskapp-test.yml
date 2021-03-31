@@ -32,4 +32,4 @@ jobs:
       with:
         app-name: 'flaskapp-test'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_8853240d3bfa4d939979a9fc60927b61 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_a87e5948cbf44b52b2bc723d37a89dac }}
